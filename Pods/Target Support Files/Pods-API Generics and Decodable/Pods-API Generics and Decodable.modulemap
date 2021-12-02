@@ -1,0 +1,6 @@
+framework module Pods_API_Generics_and_Decodable {
+  umbrella header "Pods-API Generics and Decodable-umbrella.h"
+
+  export *
+  module * { export * }
+}
